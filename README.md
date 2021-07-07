@@ -4,3 +4,8 @@ This application utilizes MongoDB and Express to create a fitness and exercise a
 
 As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
+The link to view the live deployment via Heroku is found here: 
+http://https://git.heroku.com/cryptic-atoll-63567.git
+
+The Github account where this code is stored can be found here: 
+https://github.com/Bio-DigitalPulse/Flex.git
