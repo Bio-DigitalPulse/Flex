@@ -14,7 +14,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongodb + srv: //Admin:root@cluster0.yhfgt.mongodb.net/workout?retryWrites=true&w=majority
+mongodb+srv://Admin:root@cluster0.yhfgt.mongodb.net/workout?retryWrites=true&w=majority
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
     useNewUrlParser: true,
